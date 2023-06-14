@@ -13,8 +13,7 @@ const Footer = () => {
             Tecnología pensada para ti
           </p>
           <p className="text-xs">
-            Comienza a adentrarte en la tecnología de vanguardia con nuestros
-            productos
+          Accede a la tecnología de calidad sin comprometer tu presupuesto
           </p>
         </div>
         <div className="max-w-2/12 ml-4 p-2 ">
@@ -41,10 +40,10 @@ const Footer = () => {
         <div className="w-2/12 ml-4 p-2">
           <p className="text-md text mb-2 font-bold">Contáctenos</p>
           <p className="text-xs underline hover:no-underline pb-2">
-            admin@gmail.com
+            TecStore@gmail.com
           </p>
           <p className="text-xs underline hover:no-underline">
-            (+34) 947 300 2171
+            (+52) 612 465 0684
           </p>
         </div>
       </footer>
