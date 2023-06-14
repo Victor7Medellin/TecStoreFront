@@ -88,7 +88,7 @@ const SignIn = () => {
           to="/staff"
           className="underline hover:no-underline text-blue-700"
         >
-          Entar como administrador
+          Entrar como administrador
         </Link>
       </p>
     </Container>
