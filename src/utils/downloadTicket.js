@@ -7,7 +7,7 @@ export const downloadTicket = (producto, fechaVenta) => {
 
   // Customize the ticket layout
   const ticketContent = `
-      Detalles de la compra - Xstore
+      Detalles de la compra - TecStore
       ---------------------------
       Clave Venta: ${producto.ventaProducto.clave_venta}
       Producto: ${producto.nombre_producto}
